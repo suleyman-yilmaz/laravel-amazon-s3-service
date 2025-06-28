@@ -1,61 +1,119 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=50&duration=4000&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=800&height=100&lines=LARAVEL-AMAZON-S3-SERVICE" alt="laravel-amazon-s3-service" />
+  
+  <div style="margin: 20px 0;">
+    <img src="https://img.shields.io/github/stars/suleyman-yilmaz/laravel-amazon-s3-service?style=for-the-badge&logo=github&logoColor=white&color=black&labelColor=black" alt="GitHub stars"/>
+    <img src="https://img.shields.io/github/forks/suleyman-yilmaz/laravel-amazon-s3-service?style=for-the-badge&logo=github&logoColor=white&color=black&labelColor=black" alt="GitHub forks"/>
+    <img src="https://img.shields.io/github/issues/suleyman-yilmaz/laravel-amazon-s3-service?style=for-the-badge&logo=github&logoColor=white&color=black&labelColor=black" alt="GitHub issues"/>
+    <img src="https://img.shields.io/github/license/suleyman-yilmaz/laravel-amazon-s3-service?style=for-the-badge&logo=github&logoColor=white&color=black&labelColor=black" alt="GitHub license"/>
+  </div>
+</div>
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+---
 
-## About Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+# 🚀 laravel-amazon-s3-service
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+<div align="center">
+  
+  **Created by [suleyman-yilmaz](https://github.com/suleyman-yilmaz)**
+  
+  🗓️ **Created:** 02.05.2025 | 🔄 **Last Updated:** 03.05.2025
+  
+</div>
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
-## Learning Laravel
+## 📊 Repository Statistics
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+<div align="center">
+  <table style="border-collapse: collapse; margin: 25px 0; font-size: 0.9em; min-width: 400px; border-radius: 8px; overflow: hidden; box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);">
+    <thead>
+      <tr style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); color: white; text-align: left; font-weight: bold;">
+        <th style="padding: 12px 15px;">Metric</th>
+        <th style="padding: 12px 15px;">Count</th>
+        <th style="padding: 12px 15px;">Badge</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr style="border-bottom: 1px solid #dddddd;">
+        <td style="padding: 12px 15px;">⭐ Stars</td>
+        <td style="padding: 12px 15px; font-weight: bold;">0</td>
+        <td style="padding: 12px 15px;"><img src="https://img.shields.io/github/stars/suleyman-yilmaz/laravel-amazon-s3-service?style=social" alt="GitHub stars"/></td>
+      </tr>
+      <tr style="background-color: #f3f3f3; border-bottom: 1px solid #dddddd;">
+        <td style="padding: 12px 15px;">🍴 Forks</td>
+        <td style="padding: 12px 15px; font-weight: bold;">0</td>
+        <td style="padding: 12px 15px;"><img src="https://img.shields.io/github/forks/suleyman-yilmaz/laravel-amazon-s3-service?style=social" alt="GitHub forks"/></td>
+      </tr>
+      <tr style="border-bottom: 1px solid #dddddd;">
+        <td style="padding: 12px 15px;">👁️ Watchers</td>
+        <td style="padding: 12px 15px; font-weight: bold;">0</td>
+        <td style="padding: 12px 15px;"><img src="https://img.shields.io/github/watchers/suleyman-yilmaz/laravel-amazon-s3-service?style=social" alt="GitHub watchers"/></td>
+      </tr>
+      <tr style="background-color: #f3f3f3;">
+        <td style="padding: 12px 15px;">🐛 Issues</td>
+        <td style="padding: 12px 15px; font-weight: bold;">0</td>
+        <td style="padding: 12px 15px;"><img src="https://img.shields.io/github/issues/suleyman-yilmaz/laravel-amazon-s3-service?style=social" alt="GitHub issues"/></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains thousands of video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
-## Laravel Sponsors
+## 🛠️ Tech Stack
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the [Laravel Partners program](https://partners.laravel.com).
+<div align="center">
+    <img src="https://img.shields.io/badge/Laravel-Red?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+    <img src="https://img.shields.io/badge/PHP-87.4%25-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+    <img src="https://img.shields.io/badge/Blade-11.4%25-gray?style=for-the-badge&logo=laravel&logoColor=white" alt="Blade"/>
+    <img src="https://img.shields.io/badge/AWS-Used-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/>
+</div>
 
-### Premium Partners
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[DevSquad](https://devsquad.com/hire-laravel-developers)**
-- **[Redberry](https://redberry.international/laravel-development/)**
-- **[Active Logic](https://activelogic.com)**
+## 🎯 Getting Started
 
-## Contributing
+### 🔧 Installation
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+```bash
+# Clone the repository
+git clone https://github.com/suleyman-yilmaz/laravel-amazon-s3-service.git
 
-## Code of Conduct
+# Navigate to project directory
+cd laravel-amazon-s3-service
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
+# Install dependencies
+- composer install
+- npm install
+- npm run build
 
-## Security Vulnerabilities
+# Start the development server
+composer run dev
+```
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+## 🤝 Contributing
 
-## License
+We welcome contributions! Please follow these steps:
 
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+1. 🍴 Fork the repository
+2. 🌿 Create your feature branch (`git checkout -b feature/amazing-feature`)
+3. 💾 Commit your changes (`git commit -m 'Add amazing feature'`)
+4. 📤 Push to the branch (`git push origin feature/amazing-feature`)
+5. 🔁 Open a Pull Request
+
+## 🙏 Acknowledgments
+
+- Thanks to all contributors who helped make this project better
+- Special thanks to the open-source community
+
+---
+
+<div align="center">
+  <strong>⭐ Star this repository if you find it helpful!</strong>
+  
+  <br/>
+  
+  <a href="https://github.com/suleyman-yilmaz/laravel-amazon-s3-service">
+    <img src="https://img.shields.io/badge/View%20on-GitHub-black?style=for-the-badge&logo=github" alt="View on GitHub"/>
+  </a>
+</div>
